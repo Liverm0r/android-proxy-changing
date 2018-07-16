@@ -62,8 +62,6 @@ public class MainActivity extends AppCompatActivity {
                 clear();
             }
         });
-
-        changeProxySettings("93.158.165.146", 8888);
     }
 
     private void save(String host, int port) {
